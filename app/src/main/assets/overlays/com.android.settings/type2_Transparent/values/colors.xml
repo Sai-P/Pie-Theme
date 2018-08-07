@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Search Panel BG-->
+    <color name="condition_card_background">@*android:color/transparent</color>   <!--OG:#fff8f8f8-->
+    <color name="material_grey_300">@*android:color/transparent</color>   <!--OG:#ffe0e0e0-->
+    <color name="suggestion_condition_background">@*android:color/transparent</color>   <!--OG:#fff2f2f2-->
+</resources>
