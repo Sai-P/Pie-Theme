@@ -21,19 +21,22 @@ ext {
 
 android {
     compileSdkVersion 28
-
-
+    android.applicationVariants.all { final variant ->
+        variant.outputs.all {
+            outputFileName = "pie-theme-v${variant.versionCode}.apk"
+        }
+    }
     defaultConfig {
         // If you're planning to change up the package name, ensure you have read the readme
         // thoroughly!
-        applicationId "substratum.theme.template"
+        applicationId "baka.sai.pie"
         // We are only supporting Nougat and above, all new changes will incorporate Nougat changes
         // to the substratum repo rather than anything lower. Keep targetSdkVersion the same.
-        minSdkVersion 24
+        minSdkVersion 28
         targetSdkVersion 28
         // Both versions must be changed to increment on Play Store/user's devices
-        versionCode 2
-        versionName "2.0"
+        versionCode 1
+        versionName "one"
 
         // Themers: Do not touch this, they will only formulate integrity structure of the core
         //          template
@@ -65,6 +68,7 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+    buildToolsVersion '28.0.0'
 }
 
 dependencies {
