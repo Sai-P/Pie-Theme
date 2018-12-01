@@ -14,4 +14,14 @@
     <color name="homepage_storage_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffc14ce6-->
     <color name="homepage_support_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff26459c-->
     <color name="homepage_system_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff757575-->
+    <color name="homepage_owlsnest_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffff6868-->
+    <color name="owlsnest_oval_advanced">#00000000</color>   <!--OG:#ffff6868-->
+    <color name="owlsnest_oval_buttons">#00000000</color>   <!--OG:#ff31aa5c-->
+    <color name="owlsnest_oval_gesture">#00000000</color>   <!--OG:#ffffaf66-->
+    <color name="owlsnest_oval_lockscreen">#00000000</color>   <!--OG:#ff84a7f4-->
+    <color name="owlsnest_oval_nav">#00000000</color>   <!--OG:#fff4d484-->
+    <color name="owlsnest_oval_notif">#00000000</color>   <!--OG:#ff9863d8-->
+    <color name="owlsnest_oval_qs">#00000000</color>   <!--OG:#fffa6dff-->
+    <color name="owlsnest_oval_recents">#00000000</color>   <!--OG:#ff6fdb3d-->
+    <color name="owlsnest_oval_status">#00000000</color>   <!--OG:#ff8da2e8-->
 </resources>
