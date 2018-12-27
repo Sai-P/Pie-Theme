@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="qs_theme" parent="@*com.android.systemui:style/qs_base">
+        <item name="*com.android.systemui:darkIconTheme">@*com.android.systemui:style/QSIconTheme</item>
+        <item name="*com.android.systemui:lightIconTheme">@*com.android.systemui:style/QSIconTheme</item>
+        <item name="android:colorControlNormal">#ffffffff</item>    <!--OG:?textColorPrimary-->
+        <item name="android:colorAccent">@*android:color/material_deep_teal_500</item>
+    </style>
+</resources>
