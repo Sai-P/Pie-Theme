@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="background_colors">
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+    </array>
+    <array name="background_colors_dark">
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+    </array>
+    <array name="letter_tile_colors">
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+        <item>@*android:color/material_deep_teal_500</item>
+    </array>
+</resources>
