@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Accents-->
+    <color name="accent_picker_color_1">#FA9B9F</color>   <!--Yuyuko-->
+    <color name="accent_picker_color_2">#EB6228</color>   <!--Rin-->
+    <color name="accent_picker_color_3">#F4D072</color>   <!--Amber Dawn-->
+    <color name="accent_picker_color_4">#11CF4A</color>   <!--Sanae-->
+    <color name="accent_picker_color_5">#00E5A4</color>   <!--Uranium-->
+    <color name="accent_picker_color_6">#66DEA4</color>   <!--Sea-->
+    <color name="accent_picker_color_7">#80D091</color>   <!--Koishi-->
+    <color name="accent_picker_color_8">#6ED3FD</color>   <!--Cirno-->
+    <color name="accent_picker_color_9">#1A73E8</color>   <!--Pixel-->
+    <color name="accent_picker_color_10">#0251B8</color>   <!--Seiga-->
+    <color name="accent_picker_color_11">#775BA3</color>   <!--Violet-->
+    <color name="accent_picker_color_12">#D3B0DA</color>   <!--Remilia-->
+    <color name="accent_picker_color_13">#FBB0FF</color>   <!--Sakura-->
+    <color name="accent_picker_color_14">#9A5987</color>   <!--Byakuren-->
+    <color name="accent_picker_color_15">#B22575</color>   <!--Hecatia-->
+    <color name="accent_picker_color_16">#CA295F</color>   <!--Satori-->
+    <color name="accent_picker_color_17">#FF3862</color>   <!--Rose-->
+    <color name="accent_picker_color_18">#E34242</color>   <!--Raiko-->
+    <color name="accent_picker_color_19">#404048</color>   <!--Charcoal-->
+</resources>
