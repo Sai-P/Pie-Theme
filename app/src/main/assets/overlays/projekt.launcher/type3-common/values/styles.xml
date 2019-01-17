@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="accent_picker_style_1">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_1</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_1</item>
+    </style>
+    <style name="accent_picker_style_2">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_2</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_2</item>
+    </style>
+    <style name="accent_picker_style_3">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_3</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_3</item>
+    </style>
+    <style name="accent_picker_style_4">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_4</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_4</item>
+    </style>
+    <style name="accent_picker_style_5">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_5</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_5</item>
+    </style>
+    <style name="accent_picker_style_6">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_6</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_6</item>
+    </style>
+    <style name="accent_picker_style_7">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_7</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_7</item>
+    </style>
+    <style name="accent_picker_style_8">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_8</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_8</item>
+    </style>
+    <style name="accent_picker_style_9">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_9</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_9</item>
+    </style>
+    <style name="accent_picker_style_10">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_10</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_10</item>
+    </style>
+    <style name="accent_picker_style_11">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_11</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_11</item>
+    </style>
+    <style name="accent_picker_style_12">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_12</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_12</item>
+    </style>
+    <style name="accent_picker_style_13">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_13</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_13</item>
+    </style>
+    <style name="accent_picker_style_14">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_14</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_14</item>
+    </style>
+    <style name="accent_picker_style_15">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_15</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_15</item>
+    </style>
+    <style name="accent_picker_style_16">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_16</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_16</item>
+    </style>
+    <style name="accent_picker_style_17">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_17</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_17</item>
+    </style>
+    <style name="accent_picker_style_18">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_18</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_18</item>
+    </style>
+    <style name="accent_picker_style_19">
+        <item name="android:colorAccent">@*projekt.launcher:color/accent_picker_color_19</item>
+        <item name="*projekt.launcher:colorAccent">@*projekt.launcher:color/accent_picker_color_19</item>
+    </style>
+</resources>
