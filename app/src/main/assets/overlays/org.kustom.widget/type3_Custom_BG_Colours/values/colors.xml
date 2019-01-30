@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="cardview_dark_background">@*android:color/background_floating_material_dark</color>
+	<color name="kustom_dark_primary">@*android:color/background_floating_material_dark</color>
+	<color name="kustom_dark_primary_dark">@*android:color/primary_material_dark</color>
+	<color name="kustom_dark_preview_background">@*android:color/primary_material_dark</color>
+	<color name="kustom_dark_background">@*android:color/primary_material_dark</color>
+	<color name="kustom_intro_background">@*android:color/primary_material_dark</color>
+	<color name="kustom_intro_bar">@*android:color/primary_material_dark</color>
+	<color name="design_snackbar_background_color">@*android:color/primary_material_dark</color>
+	<color name="kustom_dark_primary_light">@*android:color/primary_material_dark</color>
+	<color name="kustom_dark_divider">@*android:color/primary_material_dark</color>
+	<color name="material_grey_800">@*android:color/primary_material_dark</color>
+	<color name="md_grey_800">@*android:color/primary_material_dark</color>
+	<color name="md_grey_850">@*android:color/primary_material_dark</color>
+	<color name="md_divider_black">@*android:color/primary_material_dark</color>
+    <color name="md_divider_white">@*android:color/primary_material_dark</color>
+	<color name="md_light_dividers">@*android:color/primary_material_dark</color>
+	<color name="kustom_light_divider">@*android:color/primary_material_dark</color>
+	<color name="md_dark_dividers">@*android:color/primary_material_dark</color>
+	<color name="black25PercentColor">@*android:color/primary_material_dark</color>
+	<color name="kustom_light_primary_dark">@*android:color/primary_material_dark</color>
+</resources>
