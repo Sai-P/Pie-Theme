@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ripple android:color="@*ch.protonmail.android:color/dark_silver_gray"
-  xmlns:android="http://schemas.android.com/apk/res/android">
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@*ch.protonmail.android:color/dark_silver_gray">
     <item android:drawable="@*android:color/primary_material_dark" />
 </ripple>

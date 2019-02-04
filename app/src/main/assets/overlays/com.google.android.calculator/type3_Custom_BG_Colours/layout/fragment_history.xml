@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:clickable="true" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <android.support.v7.widget.Toolbar android:theme="@*com.google.android.calculator:style/HistoryToolbarTheme" android:id="@*com.google.android.calculator:id/history_toolbar" android:background="?*android:colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?*android:actionBarSize" android:layoutDirection="locale" android:elevation="4.0dip" app:title="@*com.google.android.calculator:string/title_history" app:popupTheme="@*com.google.android.calculator:style/ThemeOverlay.Popup" app:navigationIcon="?*android:homeAsUpIndicator" app:navigationContentDescription="@*com.google.android.calculator:string/desc_navigate_up" />
-    <android.support.v7.widget.RecyclerView android:id="@*com.google.android.calculator:id/history_recycler_view" android:background="@*android:color/background_floating_material_dark" android:paddingBottom="@*com.google.android.calculator:dimen/history_divider_padding" android:visibility="invisible" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layoutManager="LinearLayoutManager" app:reverseLayout="true" />
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:clipChildren="false"
+    android:importantForAccessibility="no"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@*com.google.android.calculator:id/history_toolbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="?*android:colorPrimary"
+        android:elevation="4.0dip"
+        android:layoutDirection="locale"
+        android:minHeight="?*android:actionBarSize"
+        android:theme="@*com.google.android.calculator:style/HistoryToolbarTheme"
+        app:navigationContentDescription="@*com.google.android.calculator:string/desc_navigate_up"
+        app:navigationIcon="?*android:homeAsUpIndicator"
+        app:popupTheme="@*com.google.android.calculator:style/ThemeOverlay.Popup"
+        app:title="@*com.google.android.calculator:string/title_history" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@*com.google.android.calculator:id/history_recycler_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@*android:color/background_floating_material_dark"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:paddingBottom="@*com.google.android.calculator:dimen/history_divider_padding"
+        android:visibility="invisible"
+        app:layoutManager="LinearLayoutManager"
+        app:reverseLayout="true" />
 </LinearLayout>
