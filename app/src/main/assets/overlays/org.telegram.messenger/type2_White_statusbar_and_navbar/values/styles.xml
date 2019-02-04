@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.TMessages" parent="@*android:style/Theme.Material.Light">
+        <item name="android:colorBackground">@*android:color/white</item>
+        <item name="android:colorPrimaryDark">#00000000</item>
+        <item name="android:navigationBarColor">@*android:color/white</item>
+		<item name="android:windowBackground">@*android:color/white</item>
+		<item name="android:windowLightNavigationBar">true</item>
+		<item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
