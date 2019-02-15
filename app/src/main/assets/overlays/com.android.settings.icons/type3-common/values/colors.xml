@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Circles-->
+    <color name="homepage_about_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff9fa8da--> 
     <color name="homepage_accessibility_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff5011c1-->
     <color name="homepage_accounts_background">@*android:color/material_deep_teal_500</color>   <!--OG:#fff15b8d-->
     <color name="homepage_app_and_notification_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffff7e0f-->

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Circles-->
+    <color name="homepage_about_background">#ff9fa8da</color>
     <color name="homepage_accessibility_background">#ff5011c1</color>
     <color name="homepage_accounts_background">#fff15b8d</color>
     <color name="homepage_app_and_notification_background">#ffff7e0f</color>
