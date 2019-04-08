@@ -8,6 +8,7 @@ import javax.crypto.spec.SecretKeySpec
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply from: 'ThemerConstants.gradle'
+apply from: '../spotless.gradle'
 
 ext {
     // Themers: DO NOT MODIFY

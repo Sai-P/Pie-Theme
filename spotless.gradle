@@ -1,0 +1,9 @@
+apply plugin: "com.diffplug.gradle.spotless"
+spotless {
+  format("assets") {
+    target "src/main/assets/**/*.xml"
+    trimTrailingWhitespace()
+    endWithNewline()
+    indentWithSpaces(4)
+  }
+}
