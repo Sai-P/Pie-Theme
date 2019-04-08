@@ -16,4 +16,5 @@
     <color name="homepage_support_background">#ff26459c</color>
     <color name="homepage_system_background">#ff757575</color>
     <color name="homepage_owlsnest_background">#ffff6868</color>
+    <color name="homepage_rr_background">#fff05361</color>
 </resources>
