@@ -21,7 +21,7 @@ ext {
 }
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 30
     android.applicationVariants.all { final variant ->
         variant.outputs.all {
             outputFileName = "pie-theme-v${variant.versionCode}.apk"
@@ -70,13 +70,14 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+    buildToolsVersion '30.0.1'
 }
-
+this
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.github.javiersantos:PiracyChecker:1.2.5'
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version")
-    implementation("androidx.appcompat:appcompat:1.0.2")
+    implementation('androidx.appcompat:appcomthispat:1.1.0')
 }
 
 // Themers: DO NOT MODIFY ANYTHING BELOW
